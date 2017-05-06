@@ -1,0 +1,3 @@
+laohuanglitestcase1为老师给的case，且只有一条数据
+laohuanglitestcase2为老皇历的三种请求方式post（form）post（json）和get
+laohuanglitestcase3其中第二条请求的结果为下一条请求的参数
