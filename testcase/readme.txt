@@ -1,3 +1,3 @@
-laohuanglitestcase1ÎªÀÏÊ¦¸øµÄcase£¬ÇÒÖ»ÓĞÒ»ÌõÊı¾İ
-laohuanglitestcase2ÎªÀÏ»ÊÀúµÄÈıÖÖÇëÇó·½Ê½post£¨form£©post£¨json£©ºÍget
-laohuanglitestcase3ÆäÖĞµÚ¶şÌõÇëÇóµÄ½á¹ûÎªÏÂÒ»ÌõÇëÇóµÄ²ÎÊı
+laohuanglitestcase1ä¸ºç»™çš„caseï¼Œä¸”åªæœ‰ä¸€æ¡æ•°æ®
+laohuanglitestcase2ä¸ºè€çš‡å†çš„ä¸‰ç§è¯·æ±‚æ–¹å¼postï¼ˆformï¼‰postï¼ˆjsonï¼‰å’Œget
+laohuanglitestcase3å…¶ä¸­ç¬¬äºŒæ¡è¯·æ±‚çš„ç»“æœä¸ºä¸‹ä¸€æ¡è¯·æ±‚çš„å‚æ•°
