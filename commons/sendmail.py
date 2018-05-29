@@ -43,7 +43,7 @@ class SendMail:
         smtp=smtplib.SMTP()
         # smtp.set_debuglevel(1)#设置为调试模式，console中显示
         smtp.connect('smtp.163.com','25') #链接服务器，smtp地址+端口
-        smtp.login('hankai1202@163.com','Hankai521') #登录，用户名+密码
+        smtp.login('hankai1202@163.com','kai521') #登录，用户名+密码
         smtp.sendmail('hankai1202@163.com','809773385@qq.com',str(msg))   #发送，from+to+内容
         smtp.quit()
 
